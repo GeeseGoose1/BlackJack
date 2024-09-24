@@ -79,7 +79,7 @@
                     break;
                 }
 
-
+                //HEJ
                 answer = Console.ReadLine();
             }
             
